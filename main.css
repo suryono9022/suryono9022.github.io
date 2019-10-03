@@ -35,7 +35,7 @@ header {
 }
 #banner {
 	background-color: #63fffe;
-	background-image: url("../gntr.jpg");
+	background-image: url("gntr.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 }
